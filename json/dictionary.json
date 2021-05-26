@@ -1,0 +1,8 @@
+{
+  "client_errors": {
+    "no_API_key": "No API key. init like \n myAPI = require new MarketApi({APIKey: 'a1b2C3d4E5f6'})"
+  },
+  "API_errors": {
+  },
+  "uncaught_error": "uncaught error"
+}
